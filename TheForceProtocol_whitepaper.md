@@ -951,7 +951,7 @@ Xu Chao——Co-founder & CEO
 
 Master of Harbin Engineering University, winner of National Postgraduate Scholarship, former Cloud Computing Architect of ZTE, head of domestic SaaS cloud service innovation project. He participated in creating SaaS product deployment architecture and business operation system, which achieved 100 million revenue scale from 0. He is also good at network structure and protocol development. He participated in the planning and design of ZTE's electronic license scheme based on blockchain technology, planning and design of the blockchain technology route of China Unicom Research Institute. He is a Blockchain technology enthusiast and early community project participant, who has participated in crowdfunding projects such as NEO and EOS.
 
-Yu Hongxue——Co-founder & CTO
+Michael Yu——Co-founder & CTO
 
 Master of Beihang University in computer science. Former core development member of Big Data Platform in Sogou Ltd. Who was responsible for ETL, core indicator calculation, task monitoring, task scheduling, task optimization and so on. He has participated several blockchain development course, such as course provided by founder of Celer, and good at development of DAPP and security technology. Recently, he is focus on Anti-cheating and recommendation algorithm research. As early follower of blockchain technology, he is familiar to source code of Bitcoin, Ethereum, EOS.
 
@@ -969,7 +969,7 @@ Master of Tsinghua University. He has been in contact with bitcoin mining since 
 
 
 
-Zhang Linbo——Algorithm & Blockchain Development Engineer
+Rambo Zhang——Co-founder, Algorithm & Blockchain Development Engineer
 
 Ph.D. of Artificial Intelligence, Chinese Academy of Sciences, Senior Engineer, Senior Network Planning Designer granted by Ministry of Industry and Information Technology. His research interests include artificial intelligence and data mining. He once worked in Chinese Academy of Transportation, during which he independently completed one national-level project, in charge of over more than 10 provincial-level information projects and participated in more than 30 provincial-level information projects. He awarded title of senior engineer in 2013, which make him the youngest member at the time. He ever took charge of policy research on domestic application of calling taxi online and autonomous driving technology, as former member of national think tank in the field of Intelligent Transportation. He is good at C, C++, C#, JAVA, Python programming languages, and has researched distributed accounting, cryptocurrency, cross-chain information interaction for several years.
 
